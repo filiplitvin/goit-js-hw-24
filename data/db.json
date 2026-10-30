@@ -1,16 +1,41 @@
 {
   "pizzas": [
     {
-      "id": "ewq1",
-      "name": "Маргарита",
-      "price": 110,
+      "id": "eqw1",
+      "name": "margherita",
+      "price": "110",
       "ingredients": [
         "Томатний соус",
         "Сир моцарела",
         "Свіжий базилік",
         "Оливкова олія"
       ],
-      "image": "https://grigliata.com.ua/wp-content/uploads/2023/04/Margarita.jpg"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-d07KJDhiQFMSDoELE6VjQq3S69q3HLO8x_ZVXXC78izoY4VYBWJuPc&s=10"
+    },
+    {
+      "id": "dev4",
+      "name": "diavola",
+      "price": "130",
+      "ingredients": [
+        "Томатний соус",
+        "Сир моцарела",
+        "Гострі салямі",
+        "Оливкова олія"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVwC5x9V7VMkJWFlaavAqrZZJChc99PN8LP9sDICqSDWxDXam3468CZdI&s=10"
+    },
+    {
+      "id": "red2",
+      "name": "4 stagioni",
+      "price": "100",
+      "ingredients": [
+        "Томатний соус",
+        "Сир моцарела",
+        "Оливки",
+        "Гриби",
+        "Курка"
+      ],
+      "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/D1970EB4-C992-445D-A819-2E79040C6C1A/Derivates/4afa3c8c-c3ad-411f-8e31-7544baf4deb4.jpg"
     }
   ]
 }
